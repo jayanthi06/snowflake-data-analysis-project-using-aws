@@ -20,11 +20,6 @@ This project demonstrates how to leverage Snowflake as a cloud data warehouse to
 
 ---
 
-## 🧭 Architecture Diagram
-
-```markdown
-```
-
 Flow:
 - 🚀 Data landed into S3
 - ⬇️ Loaded into Snowflake Staging Tables
