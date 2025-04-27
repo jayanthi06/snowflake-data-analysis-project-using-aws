@@ -28,14 +28,6 @@ Flow:
 
 ---
 
-## 🚀 How to Execute
-
-1. Create Database and Warehouses (use `create_tables.sql` under `schema/`).
-2. Load datasets into Snowflake (`load_data_to_snowflake.sql`).
-3. Run transformations and analytical queries (`snowflake_queries/`).
-4. Export results for visualization if needed.
-
----
 
 ## 🔍 Key Analytical Outcomes
 
