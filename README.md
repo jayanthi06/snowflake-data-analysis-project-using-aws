@@ -18,9 +18,14 @@ This project demonstrates how to leverage Snowflake as a cloud data warehouse to
 
 **Snowflake**, **SnowSQL CLI**, **SQL**, **Python (optional for automation)**, **AWS S3 (for data staging)**
 
+---
+
+## 🧭 Architecture Diagram
+
+```markdown
 ```
 
-## Flow:
+Flow:
 - 🚀 Data landed into S3
 - ⬇️ Loaded into Snowflake Staging Tables
 - 🔄 Transformed into Analytics Layer
