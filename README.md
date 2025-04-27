@@ -28,6 +28,11 @@ Flow:
 
 ---
 
+## 🚀 How to Execute
+
+Use this to follow the steps to create the tables in snwosight and follow: http://data-engineering-simplified.medium.com/end-to-end-data-engineering-project-using-snowflake-8f8e4f0fd1d0
+
+---
 
 ## 🔍 Key Analytical Outcomes
 
